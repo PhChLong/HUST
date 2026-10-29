@@ -1,0 +1,10 @@
+bước,số lượng
+Dòng economics thô,20400
+- Dòng trùng hoàn toàn bị bỏ,300
+- Dòng mâu thuẫn bị bỏ,0
+- Dòng ID không có trong roster bị bỏ,100
+= Dòng economics sạch,20000
++ Khách roster không có dòng economics,0
+= Số khách trong file cuối (roster),20000
+  trong đó: tính được CLV (ok),19300
+  trong đó: CLV trống (Unscored),700

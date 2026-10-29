@@ -1,0 +1,1001 @@
+﻿customer_id,open_date,city,age_band,onboarding_channel,synthetic_profile_hint
+C00001,2025-10-07,Hai Phong,18-25,Branch,new
+C00002,2025-11-03,Hanoi,36-50,Web,digital_active
+C00003,2026-02-10,Hanoi,36-50,Mobile,regular
+C00004,2025-09-23,Hai Phong,18-25,Mobile,dormant
+C00005,2025-07-07,Da Nang,51+,Branch,regular
+C00006,2025-09-04,Hai Phong,51+,Mobile,digital_active
+C00007,2025-09-10,Hanoi,51+,Mobile,dormant
+C00008,2025-11-02,HCMC,36-50,Mobile,digital_active
+C00009,2025-11-03,Can Tho,36-50,Branch,regular
+C00010,2025-12-24,HCMC,18-25,Branch,digital_active
+C00011,2025-05-23,HCMC,51+,Mobile,dormant
+C00012,2025-11-14,Can Tho,36-50,Mobile,new
+C00013,2025-03-05,Hai Phong,36-50,Web,regular
+C00014,2025-09-09,Da Nang,26-35,Web,premium
+C00015,2025-10-11,HCMC,26-35,Web,digital_active
+C00016,2025-08-31,Can Tho,51+,Mobile,digital_active
+C00017,2025-01-08,HCMC,51+,Mobile,dormant
+C00018,2025-10-08,HCMC,36-50,Branch,regular
+C00019,2026-01-17,HCMC,51+,Branch,digital_active
+C00020,2025-12-25,Hai Phong,36-50,Branch,regular
+C00021,2025-02-15,Hai Phong,18-25,Branch,regular
+C00022,2026-02-01,Can Tho,26-35,Mobile,premium
+C00023,2025-10-29,HCMC,26-35,Branch,regular
+C00024,2025-07-25,Can Tho,26-35,Web,premium
+C00025,2025-05-28,Hai Phong,51+,Branch,regular
+C00026,2025-04-29,Hanoi,26-35,Mobile,regular
+C00027,2025-03-21,Hanoi,51+,Web,digital_active
+C00028,2025-10-06,Hai Phong,51+,Branch,regular
+C00029,2026-02-19,HCMC,51+,Branch,regular
+C00030,2025-08-09,Can Tho,18-25,Web,digital_active
+C00031,2026-01-27,Da Nang,18-25,Web,premium
+C00032,2025-01-19,Hanoi,36-50,Web,new
+C00033,2025-01-22,Hai Phong,51+,Web,dormant
+C00034,2025-01-27,Can Tho,36-50,Mobile,regular
+C00035,2025-05-02,Hanoi,26-35,Mobile,regular
+C00036,2025-04-24,Da Nang,36-50,Branch,dormant
+C00037,2025-12-02,Da Nang,18-25,Web,regular
+C00038,2025-11-27,HCMC,51+,Web,digital_active
+C00039,2025-12-19,Hai Phong,51+,Web,digital_active
+C00040,2025-12-08,Hai Phong,36-50,Branch,dormant
+C00041,2025-04-24,HCMC,36-50,Mobile,regular
+C00042,2025-03-24,Da Nang,51+,Web,regular
+C00043,2025-02-25,Hai Phong,51+,Mobile,premium
+C00044,2025-07-02,Da Nang,51+,Mobile,digital_active
+C00045,2025-04-11,Da Nang,51+,Mobile,digital_active
+C00046,2025-07-25,Da Nang,26-35,Mobile,digital_active
+C00047,2026-01-09,Da Nang,26-35,Mobile,regular
+C00048,2025-10-20,Can Tho,26-35,Mobile,regular
+C00049,2025-03-07,Hai Phong,18-25,Mobile,digital_active
+C00050,2025-11-30,Can Tho,18-25,Web,dormant
+C00051,2025-07-30,Da Nang,26-35,Branch,regular
+C00052,2025-10-12,Da Nang,18-25,Web,dormant
+C00053,2025-08-21,Da Nang,26-35,Mobile,digital_active
+C00054,2025-07-14,Hai Phong,26-35,Branch,regular
+C00055,2025-10-29,Da Nang,36-50,Web,regular
+C00056,2025-04-28,Can Tho,18-25,Mobile,premium
+C00057,2025-10-21,HCMC,26-35,Mobile,new
+C00058,2025-11-30,Da Nang,51+,Mobile,dormant
+C00059,2025-04-13,Can Tho,18-25,Branch,digital_active
+C00060,2026-02-10,HCMC,26-35,Branch,regular
+C00061,2025-12-24,Can Tho,36-50,Web,dormant
+C00062,2025-11-12,Hanoi,51+,Mobile,premium
+C00063,2026-01-13,Hai Phong,36-50,Branch,regular
+C00064,2025-11-27,HCMC,36-50,Mobile,digital_active
+C00065,2025-08-21,Hanoi,18-25,Mobile,regular
+C00066,2025-05-25,Da Nang,51+,Mobile,dormant
+C00067,2025-08-23,Hai Phong,18-25,Web,premium
+C00068,2025-11-22,Can Tho,26-35,Web,new
+C00069,2025-05-05,Can Tho,36-50,Web,regular
+C00070,2025-01-06,Da Nang,26-35,Web,regular
+C00071,2026-02-11,Hai Phong,51+,Web,digital_active
+C00072,2025-05-08,Hai Phong,26-35,Web,regular
+C00073,2025-07-29,Can Tho,18-25,Mobile,digital_active
+C00074,2025-12-05,HCMC,51+,Mobile,premium
+C00075,2025-08-02,Hanoi,26-35,Mobile,regular
+C00076,2026-02-12,Hanoi,26-35,Branch,premium
+C00077,2025-09-30,Hanoi,26-35,Branch,new
+C00078,2025-07-07,Can Tho,51+,Branch,regular
+C00079,2025-08-18,Can Tho,36-50,Web,new
+C00080,2025-08-16,Hai Phong,51+,Web,regular
+C00081,2025-01-12,Hanoi,51+,Mobile,digital_active
+C00082,2025-10-22,Can Tho,36-50,Mobile,regular
+C00083,2025-12-05,Hai Phong,51+,Web,regular
+C00084,2025-02-15,HCMC,26-35,Branch,dormant
+C00085,2025-10-07,HCMC,36-50,Mobile,new
+C00086,2025-08-09,Hanoi,26-35,Web,new
+C00087,2025-02-08,Can Tho,18-25,Mobile,dormant
+C00088,2025-03-20,Da Nang,36-50,Branch,premium
+C00089,2025-01-03,Da Nang,26-35,Mobile,premium
+C00090,2025-04-10,Da Nang,36-50,Web,digital_active
+C00091,2025-09-04,Hai Phong,51+,Branch,digital_active
+C00092,2025-04-19,Hai Phong,18-25,Branch,dormant
+C00093,2026-01-29,HCMC,51+,Web,digital_active
+C00094,2025-12-17,Can Tho,18-25,Mobile,new
+C00095,2025-06-11,Hai Phong,18-25,Web,regular
+C00096,2025-03-28,Da Nang,36-50,Web,dormant
+C00097,2025-05-12,Da Nang,51+,Branch,digital_active
+C00098,2025-09-21,Can Tho,18-25,Web,premium
+C00099,2025-10-23,Hanoi,18-25,Branch,digital_active
+C00100,2025-06-25,Hai Phong,36-50,Mobile,dormant
+C00101,2025-05-10,HCMC,26-35,Web,new
+C00102,2025-10-13,HCMC,26-35,Branch,regular
+C00103,2025-05-19,Hai Phong,51+,Branch,new
+C00104,2025-10-25,Hanoi,26-35,Mobile,digital_active
+C00105,2025-01-02,Hanoi,51+,Branch,premium
+C00106,2025-02-02,Da Nang,36-50,Mobile,regular
+C00107,2025-02-28,Hanoi,51+,Mobile,regular
+C00108,2025-05-13,HCMC,36-50,Web,digital_active
+C00109,2026-02-12,Da Nang,51+,Branch,digital_active
+C00110,2025-02-16,Hanoi,26-35,Branch,premium
+C00111,2025-01-13,Can Tho,36-50,Web,regular
+C00112,2025-09-08,Hanoi,51+,Mobile,premium
+C00113,2025-10-07,Hai Phong,36-50,Web,new
+C00114,2025-03-14,Hanoi,26-35,Branch,dormant
+C00115,2025-10-14,Hanoi,51+,Branch,dormant
+C00116,2025-08-03,Hanoi,18-25,Branch,dormant
+C00117,2025-07-02,Can Tho,18-25,Mobile,regular
+C00118,2025-10-05,Hanoi,51+,Branch,dormant
+C00119,2026-01-12,Can Tho,36-50,Branch,digital_active
+C00120,2025-10-06,Can Tho,36-50,Branch,digital_active
+C00121,2026-01-29,Can Tho,36-50,Branch,digital_active
+C00122,2025-01-26,Da Nang,51+,Mobile,digital_active
+C00123,2025-10-01,Can Tho,51+,Web,regular
+C00124,2025-02-01,Hai Phong,51+,Web,dormant
+C00125,2025-05-03,Can Tho,26-35,Branch,digital_active
+C00126,2025-09-05,Da Nang,18-25,Branch,digital_active
+C00127,2025-02-06,Hai Phong,26-35,Mobile,regular
+C00128,2025-06-25,Can Tho,36-50,Branch,dormant
+C00129,2025-12-18,Can Tho,36-50,Branch,dormant
+C00130,2025-12-18,Can Tho,26-35,Branch,digital_active
+C00131,2025-11-23,Can Tho,18-25,Mobile,digital_active
+C00132,2025-07-27,Hai Phong,36-50,Mobile,digital_active
+C00133,2025-08-03,Hanoi,36-50,Mobile,new
+C00134,2025-08-09,HCMC,36-50,Web,regular
+C00135,2025-02-04,HCMC,26-35,Branch,digital_active
+C00136,2025-10-02,HCMC,26-35,Mobile,regular
+C00137,2025-02-25,Da Nang,51+,Web,digital_active
+C00138,2025-01-21,HCMC,26-35,Web,new
+C00139,2026-01-19,Da Nang,36-50,Branch,dormant
+C00140,2025-05-27,Hai Phong,18-25,Mobile,digital_active
+C00141,2026-01-23,Can Tho,36-50,Mobile,digital_active
+C00142,2025-02-12,Hanoi,36-50,Branch,regular
+C00143,2025-01-10,Hanoi,18-25,Branch,digital_active
+C00144,2026-01-15,HCMC,18-25,Branch,regular
+C00145,2025-01-28,Can Tho,51+,Branch,digital_active
+C00146,2025-10-17,Can Tho,26-35,Mobile,regular
+C00147,2026-01-31,Hanoi,36-50,Web,regular
+C00148,2025-01-26,Hanoi,18-25,Branch,digital_active
+C00149,2026-01-14,Hai Phong,36-50,Mobile,digital_active
+C00150,2025-09-03,HCMC,51+,Branch,dormant
+C00151,2025-08-18,Hanoi,26-35,Web,new
+C00152,2026-02-25,Hanoi,26-35,Branch,digital_active
+C00153,2025-08-24,Hai Phong,51+,Branch,digital_active
+C00154,2025-10-21,Da Nang,18-25,Mobile,digital_active
+C00155,2025-04-16,HCMC,18-25,Branch,dormant
+C00156,2026-01-21,Hai Phong,18-25,Branch,regular
+C00157,2025-08-18,HCMC,36-50,Web,dormant
+C00158,2026-01-01,Hanoi,36-50,Web,regular
+C00159,2025-02-11,Can Tho,26-35,Mobile,digital_active
+C00160,2025-01-04,Hanoi,51+,Web,digital_active
+C00161,2025-07-02,Can Tho,36-50,Mobile,digital_active
+C00162,2025-09-12,Can Tho,36-50,Mobile,digital_active
+C00163,2025-09-03,Hai Phong,51+,Web,new
+C00164,2025-04-19,Can Tho,36-50,Branch,premium
+C00165,2025-12-25,Hanoi,36-50,Web,new
+C00166,2025-11-22,Da Nang,51+,Web,dormant
+C00167,2025-09-16,Da Nang,36-50,Branch,premium
+C00168,2025-11-24,Da Nang,36-50,Web,regular
+C00169,2025-09-03,Can Tho,18-25,Branch,digital_active
+C00170,2025-12-16,Hai Phong,26-35,Web,regular
+C00171,2025-11-04,Da Nang,26-35,Branch,new
+C00172,2025-12-24,HCMC,51+,Branch,digital_active
+C00173,2025-11-10,HCMC,18-25,Web,digital_active
+C00174,2025-07-31,Can Tho,51+,Mobile,regular
+C00175,2025-09-13,Hai Phong,36-50,Branch,regular
+C00176,2025-03-03,HCMC,26-35,Branch,digital_active
+C00177,2025-11-26,Hai Phong,26-35,Mobile,regular
+C00178,2025-01-02,Hanoi,26-35,Web,premium
+C00179,2025-06-19,Hanoi,26-35,Branch,premium
+C00180,2025-11-30,HCMC,18-25,Mobile,new
+C00181,2025-10-19,Hanoi,18-25,Branch,regular
+C00182,2025-06-13,Can Tho,18-25,Web,digital_active
+C00183,2025-10-05,Hai Phong,51+,Web,dormant
+C00184,2025-11-12,Hai Phong,26-35,Mobile,digital_active
+C00185,2026-02-08,Hanoi,51+,Mobile,digital_active
+C00186,2025-01-02,HCMC,51+,Branch,premium
+C00187,2025-12-22,Can Tho,18-25,Web,dormant
+C00188,2025-07-31,HCMC,18-25,Web,digital_active
+C00189,2026-02-24,Can Tho,36-50,Branch,digital_active
+C00190,2025-09-09,Hanoi,26-35,Branch,regular
+C00191,2026-01-09,Can Tho,36-50,Mobile,dormant
+C00192,2025-11-17,Can Tho,36-50,Branch,regular
+C00193,2026-02-13,Da Nang,51+,Mobile,digital_active
+C00194,2025-06-16,HCMC,26-35,Web,regular
+C00195,2025-04-23,Hai Phong,36-50,Web,regular
+C00196,2025-03-05,Hanoi,18-25,Branch,digital_active
+C00197,2025-07-30,Da Nang,26-35,Mobile,regular
+C00198,2025-10-14,Can Tho,26-35,Branch,dormant
+C00199,2025-10-01,Hai Phong,36-50,Web,digital_active
+C00200,2025-04-19,Da Nang,51+,Mobile,digital_active
+C00201,2026-01-05,Can Tho,51+,Mobile,regular
+C00202,2025-02-15,HCMC,51+,Mobile,dormant
+C00203,2025-12-27,Hanoi,26-35,Web,regular
+C00204,2025-08-21,Da Nang,26-35,Mobile,digital_active
+C00205,2025-03-07,Hanoi,18-25,Mobile,digital_active
+C00206,2025-07-21,Can Tho,51+,Web,new
+C00207,2025-06-11,Hanoi,51+,Web,regular
+C00208,2025-12-01,Hanoi,18-25,Web,premium
+C00209,2025-03-04,HCMC,18-25,Mobile,regular
+C00210,2025-01-27,Can Tho,51+,Branch,dormant
+C00211,2025-01-08,Hanoi,51+,Mobile,digital_active
+C00212,2025-07-04,Can Tho,26-35,Branch,regular
+C00213,2026-01-25,Da Nang,51+,Branch,digital_active
+C00214,2025-06-29,Da Nang,36-50,Branch,digital_active
+C00215,2026-01-22,HCMC,26-35,Web,premium
+C00216,2025-11-22,Hai Phong,36-50,Mobile,digital_active
+C00217,2025-08-28,Hai Phong,51+,Web,regular
+C00218,2025-08-02,Hanoi,51+,Mobile,premium
+C00219,2025-06-12,Da Nang,51+,Web,digital_active
+C00220,2025-06-14,Hanoi,26-35,Branch,dormant
+C00221,2025-06-06,Da Nang,36-50,Web,regular
+C00222,2025-04-18,Can Tho,26-35,Web,regular
+C00223,2025-05-05,Can Tho,26-35,Branch,digital_active
+C00224,2025-10-30,Da Nang,36-50,Branch,new
+C00225,2025-03-18,Can Tho,51+,Branch,digital_active
+C00226,2026-02-23,Hanoi,51+,Web,regular
+C00227,2025-12-10,Da Nang,36-50,Mobile,digital_active
+C00228,2025-04-01,HCMC,36-50,Mobile,dormant
+C00229,2025-12-23,Da Nang,51+,Branch,premium
+C00230,2025-08-12,Hanoi,18-25,Web,digital_active
+C00231,2025-09-24,Can Tho,36-50,Mobile,regular
+C00232,2025-12-01,Hanoi,26-35,Branch,digital_active
+C00233,2025-08-02,Can Tho,26-35,Mobile,regular
+C00234,2025-11-02,HCMC,51+,Branch,dormant
+C00235,2025-08-14,HCMC,26-35,Mobile,premium
+C00236,2025-07-27,Da Nang,36-50,Web,regular
+C00237,2025-08-21,Da Nang,18-25,Branch,digital_active
+C00238,2025-08-25,Can Tho,26-35,Branch,digital_active
+C00239,2025-07-10,Can Tho,36-50,Branch,regular
+C00240,2025-08-12,Hai Phong,26-35,Mobile,regular
+C00241,2025-11-16,HCMC,51+,Mobile,regular
+C00242,2025-09-05,Hanoi,36-50,Branch,new
+C00243,2025-05-17,Hanoi,26-35,Branch,dormant
+C00244,2025-07-16,Hai Phong,36-50,Branch,regular
+C00245,2025-09-06,Can Tho,36-50,Branch,digital_active
+C00246,2025-07-26,Can Tho,51+,Branch,digital_active
+C00247,2025-07-16,Hai Phong,26-35,Web,digital_active
+C00248,2025-04-22,HCMC,36-50,Branch,regular
+C00249,2025-06-18,Da Nang,26-35,Web,dormant
+C00250,2025-02-01,Da Nang,26-35,Branch,new
+C00251,2026-02-04,Can Tho,18-25,Branch,regular
+C00252,2025-09-18,Da Nang,51+,Web,dormant
+C00253,2025-09-28,Can Tho,26-35,Web,premium
+C00254,2025-10-20,HCMC,26-35,Branch,regular
+C00255,2025-01-30,HCMC,51+,Branch,premium
+C00256,2025-06-17,Can Tho,18-25,Web,new
+C00257,2025-10-27,Hai Phong,26-35,Mobile,regular
+C00258,2025-03-01,HCMC,18-25,Web,regular
+C00259,2025-09-22,Hai Phong,18-25,Web,new
+C00260,2026-01-17,HCMC,51+,Web,dormant
+C00261,2025-08-09,Can Tho,36-50,Web,regular
+C00262,2025-03-19,HCMC,36-50,Branch,digital_active
+C00263,2025-05-29,Hai Phong,18-25,Web,dormant
+C00264,2026-01-23,Can Tho,36-50,Branch,regular
+C00265,2025-11-22,Hanoi,36-50,Mobile,digital_active
+C00266,2025-07-27,Can Tho,36-50,Mobile,premium
+C00267,2025-11-17,Can Tho,26-35,Web,dormant
+C00268,2025-04-08,Da Nang,26-35,Web,premium
+C00269,2025-08-15,Hai Phong,51+,Mobile,digital_active
+C00270,2025-06-23,Da Nang,18-25,Branch,digital_active
+C00271,2026-02-02,Hanoi,18-25,Web,regular
+C00272,2025-11-02,HCMC,18-25,Mobile,dormant
+C00273,2025-10-02,Da Nang,26-35,Mobile,dormant
+C00274,2026-02-17,HCMC,18-25,Mobile,digital_active
+C00275,2025-10-31,Da Nang,36-50,Branch,premium
+C00276,2025-02-08,Hanoi,36-50,Web,regular
+C00277,2025-05-15,Can Tho,26-35,Web,digital_active
+C00278,2026-01-29,HCMC,26-35,Web,regular
+C00279,2025-12-24,HCMC,18-25,Branch,digital_active
+C00280,2025-05-25,Hai Phong,18-25,Branch,digital_active
+C00281,2025-06-28,Da Nang,51+,Branch,regular
+C00282,2025-07-19,HCMC,18-25,Web,digital_active
+C00283,2025-12-07,Hanoi,36-50,Branch,regular
+C00284,2025-01-30,Hai Phong,36-50,Branch,premium
+C00285,2025-02-15,HCMC,36-50,Branch,digital_active
+C00286,2025-12-26,Da Nang,18-25,Web,dormant
+C00287,2025-06-11,Hanoi,51+,Mobile,regular
+C00288,2025-10-21,Hai Phong,18-25,Web,digital_active
+C00289,2026-02-24,Hai Phong,51+,Branch,premium
+C00290,2025-03-20,Da Nang,51+,Branch,dormant
+C00291,2025-08-19,Hai Phong,26-35,Branch,regular
+C00292,2026-02-14,HCMC,36-50,Web,dormant
+C00293,2025-11-29,Can Tho,26-35,Mobile,premium
+C00294,2025-12-30,Can Tho,51+,Branch,regular
+C00295,2026-02-01,Hanoi,51+,Web,digital_active
+C00296,2025-08-26,Can Tho,36-50,Web,digital_active
+C00297,2025-01-04,Can Tho,51+,Branch,digital_active
+C00298,2025-09-24,Da Nang,26-35,Branch,digital_active
+C00299,2025-01-20,Hanoi,26-35,Web,regular
+C00300,2025-07-31,Da Nang,18-25,Branch,premium
+C00301,2026-02-03,Da Nang,26-35,Mobile,dormant
+C00302,2025-02-05,Can Tho,18-25,Mobile,dormant
+C00303,2025-02-09,Hanoi,51+,Web,new
+C00304,2025-08-11,HCMC,26-35,Web,digital_active
+C00305,2025-05-18,Hai Phong,36-50,Web,dormant
+C00306,2025-09-27,Hai Phong,36-50,Branch,regular
+C00307,2025-04-01,Hai Phong,51+,Branch,regular
+C00308,2025-05-02,Da Nang,51+,Mobile,digital_active
+C00309,2025-10-09,Da Nang,51+,Branch,regular
+C00310,2025-07-02,Da Nang,51+,Mobile,regular
+C00311,2025-03-27,Da Nang,36-50,Mobile,regular
+C00312,2025-02-01,Hai Phong,51+,Branch,digital_active
+C00313,2025-08-04,Hai Phong,18-25,Branch,regular
+C00314,2025-01-05,Hai Phong,36-50,Web,regular
+C00315,2025-08-17,Da Nang,36-50,Branch,dormant
+C00316,2025-02-21,Hai Phong,18-25,Mobile,new
+C00317,2025-12-01,HCMC,51+,Branch,dormant
+C00318,2025-11-04,HCMC,18-25,Branch,premium
+C00319,2025-12-31,Hanoi,18-25,Web,dormant
+C00320,2025-08-09,Hanoi,18-25,Branch,digital_active
+C00321,2025-07-18,Hanoi,26-35,Branch,digital_active
+C00322,2025-09-24,Hanoi,51+,Mobile,new
+C00323,2025-06-20,HCMC,51+,Mobile,regular
+C00324,2025-01-04,Hai Phong,18-25,Mobile,regular
+C00325,2025-09-06,Hai Phong,26-35,Mobile,digital_active
+C00326,2025-04-20,Hai Phong,18-25,Mobile,digital_active
+C00327,2025-12-01,Da Nang,36-50,Mobile,regular
+C00328,2025-12-03,Hai Phong,36-50,Branch,dormant
+C00329,2025-09-19,HCMC,26-35,Web,new
+C00330,2025-02-05,Hanoi,18-25,Branch,digital_active
+C00331,2025-01-18,Can Tho,26-35,Web,new
+C00332,2025-12-15,Hanoi,51+,Branch,digital_active
+C00333,2026-01-21,Hai Phong,36-50,Web,regular
+C00334,2025-12-17,Da Nang,26-35,Web,digital_active
+C00335,2025-01-11,Da Nang,36-50,Web,digital_active
+C00336,2025-01-10,Da Nang,18-25,Web,digital_active
+C00337,2026-01-31,Hanoi,36-50,Web,premium
+C00338,2025-01-01,HCMC,18-25,Web,premium
+C00339,2026-01-31,Hanoi,18-25,Mobile,regular
+C00340,2025-09-19,Hanoi,36-50,Web,dormant
+C00341,2025-01-19,HCMC,51+,Web,dormant
+C00342,2026-01-10,Can Tho,18-25,Branch,regular
+C00343,2025-10-23,Da Nang,51+,Branch,digital_active
+C00344,2025-01-13,Hanoi,51+,Branch,digital_active
+C00345,2025-06-29,Da Nang,51+,Web,digital_active
+C00346,2025-06-18,Da Nang,36-50,Mobile,digital_active
+C00347,2025-09-01,Da Nang,18-25,Branch,regular
+C00348,2025-05-17,HCMC,26-35,Mobile,regular
+C00349,2025-10-09,Hai Phong,51+,Mobile,regular
+C00350,2025-02-04,Hanoi,18-25,Mobile,digital_active
+C00351,2025-01-04,HCMC,18-25,Mobile,regular
+C00352,2026-02-14,Hanoi,26-35,Branch,digital_active
+C00353,2025-10-08,Can Tho,18-25,Branch,digital_active
+C00354,2025-09-13,Hai Phong,18-25,Web,digital_active
+C00355,2025-11-10,HCMC,36-50,Branch,regular
+C00356,2025-08-23,Hai Phong,18-25,Web,regular
+C00357,2025-12-18,HCMC,36-50,Branch,dormant
+C00358,2025-04-07,Hanoi,51+,Web,digital_active
+C00359,2025-03-08,HCMC,51+,Branch,digital_active
+C00360,2025-11-25,Can Tho,36-50,Branch,premium
+C00361,2025-03-02,Hai Phong,26-35,Branch,digital_active
+C00362,2026-01-01,Hai Phong,26-35,Branch,regular
+C00363,2025-03-06,Hai Phong,51+,Branch,dormant
+C00364,2025-09-13,Hai Phong,51+,Mobile,premium
+C00365,2025-12-30,Hanoi,18-25,Web,digital_active
+C00366,2025-11-10,HCMC,51+,Web,digital_active
+C00367,2025-01-23,Hanoi,51+,Web,digital_active
+C00368,2025-05-25,Can Tho,26-35,Branch,dormant
+C00369,2025-02-07,Da Nang,51+,Web,premium
+C00370,2026-01-29,Hai Phong,18-25,Web,new
+C00371,2025-01-14,Da Nang,18-25,Web,premium
+C00372,2025-09-19,Hanoi,36-50,Web,new
+C00373,2026-01-12,Hai Phong,36-50,Branch,digital_active
+C00374,2026-02-20,Can Tho,51+,Web,new
+C00375,2025-05-04,Can Tho,18-25,Mobile,regular
+C00376,2025-03-02,Can Tho,36-50,Branch,digital_active
+C00377,2025-09-19,Da Nang,51+,Mobile,digital_active
+C00378,2025-06-04,Hanoi,36-50,Mobile,digital_active
+C00379,2025-07-28,Da Nang,51+,Branch,digital_active
+C00380,2025-11-30,Can Tho,26-35,Mobile,regular
+C00381,2025-05-24,Hai Phong,26-35,Branch,digital_active
+C00382,2025-01-30,Da Nang,36-50,Branch,regular
+C00383,2025-06-02,Can Tho,18-25,Web,regular
+C00384,2025-04-19,Hai Phong,51+,Web,digital_active
+C00385,2025-10-24,Hai Phong,51+,Mobile,dormant
+C00386,2025-02-24,Hanoi,36-50,Branch,regular
+C00387,2026-01-16,Hanoi,18-25,Web,regular
+C00388,2025-12-09,Da Nang,26-35,Web,new
+C00389,2025-03-01,Can Tho,26-35,Web,digital_active
+C00390,2025-03-15,Can Tho,18-25,Mobile,digital_active
+C00391,2025-06-16,Can Tho,18-25,Web,new
+C00392,2025-06-13,Can Tho,18-25,Mobile,regular
+C00393,2025-02-26,Can Tho,51+,Branch,new
+C00394,2025-04-16,Can Tho,26-35,Web,dormant
+C00395,2025-03-26,Hanoi,36-50,Branch,digital_active
+C00396,2025-11-20,HCMC,26-35,Web,premium
+C00397,2025-03-25,Hai Phong,36-50,Mobile,digital_active
+C00398,2025-10-19,HCMC,36-50,Web,premium
+C00399,2025-10-30,Can Tho,18-25,Mobile,digital_active
+C00400,2025-08-02,HCMC,26-35,Branch,premium
+C00401,2026-01-31,Hai Phong,51+,Mobile,regular
+C00402,2025-11-13,HCMC,18-25,Mobile,regular
+C00403,2025-04-17,Hai Phong,26-35,Web,new
+C00404,2025-07-26,Hai Phong,18-25,Branch,digital_active
+C00405,2025-08-04,Hai Phong,51+,Web,digital_active
+C00406,2025-02-13,Da Nang,51+,Mobile,regular
+C00407,2026-02-24,Hanoi,51+,Branch,regular
+C00408,2026-01-25,Da Nang,51+,Mobile,digital_active
+C00409,2026-01-30,Da Nang,36-50,Branch,digital_active
+C00410,2025-09-03,Hanoi,26-35,Mobile,new
+C00411,2025-04-28,Hanoi,26-35,Web,regular
+C00412,2025-12-22,Can Tho,18-25,Mobile,new
+C00413,2025-01-29,Can Tho,51+,Mobile,dormant
+C00414,2025-09-27,Hai Phong,18-25,Mobile,premium
+C00415,2025-02-04,Da Nang,51+,Web,new
+C00416,2025-06-06,Hai Phong,51+,Web,new
+C00417,2025-03-17,Da Nang,36-50,Web,digital_active
+C00418,2025-03-07,Da Nang,26-35,Branch,digital_active
+C00419,2025-03-23,Hanoi,36-50,Web,dormant
+C00420,2025-08-07,Hai Phong,26-35,Branch,regular
+C00421,2025-01-27,Can Tho,36-50,Mobile,premium
+C00422,2026-01-10,Hanoi,26-35,Branch,regular
+C00423,2025-03-04,HCMC,36-50,Branch,regular
+C00424,2025-02-19,Hai Phong,51+,Mobile,premium
+C00425,2025-05-20,Da Nang,26-35,Mobile,dormant
+C00426,2026-02-24,Hai Phong,18-25,Branch,digital_active
+C00427,2025-03-20,Can Tho,26-35,Web,digital_active
+C00428,2025-03-15,HCMC,26-35,Branch,regular
+C00429,2025-10-09,Da Nang,36-50,Web,digital_active
+C00430,2025-03-22,HCMC,26-35,Branch,digital_active
+C00431,2026-01-29,Da Nang,36-50,Branch,dormant
+C00432,2025-12-04,Can Tho,26-35,Branch,regular
+C00433,2025-08-20,Hai Phong,36-50,Branch,new
+C00434,2026-02-03,Hanoi,26-35,Branch,digital_active
+C00435,2025-07-19,Hanoi,51+,Branch,new
+C00436,2025-03-23,Can Tho,51+,Mobile,new
+C00437,2025-09-27,Hanoi,36-50,Mobile,digital_active
+C00438,2025-02-05,Can Tho,36-50,Web,digital_active
+C00439,2025-02-22,Can Tho,51+,Web,new
+C00440,2026-01-15,HCMC,18-25,Web,regular
+C00441,2025-10-04,Da Nang,36-50,Web,dormant
+C00442,2025-06-05,Hai Phong,36-50,Branch,premium
+C00443,2025-03-13,Da Nang,36-50,Web,digital_active
+C00444,2025-02-07,Hai Phong,18-25,Web,new
+C00445,2025-07-03,Da Nang,36-50,Web,digital_active
+C00446,2025-12-27,Hanoi,51+,Branch,digital_active
+C00447,2025-01-21,Hanoi,36-50,Mobile,digital_active
+C00448,2025-09-20,Hanoi,51+,Web,premium
+C00449,2025-09-13,Hai Phong,51+,Mobile,digital_active
+C00450,2025-05-15,Hai Phong,36-50,Branch,new
+C00451,2025-03-29,Hai Phong,18-25,Branch,regular
+C00452,2026-01-04,HCMC,36-50,Branch,digital_active
+C00453,2025-05-01,Da Nang,51+,Web,digital_active
+C00454,2025-06-18,Can Tho,26-35,Mobile,dormant
+C00455,2025-03-04,Hai Phong,36-50,Branch,regular
+C00456,2025-11-03,Hanoi,18-25,Mobile,digital_active
+C00457,2025-01-29,Can Tho,36-50,Branch,regular
+C00458,2025-10-11,Hai Phong,36-50,Web,digital_active
+C00459,2025-03-06,HCMC,26-35,Web,regular
+C00460,2025-09-17,HCMC,51+,Mobile,digital_active
+C00461,2025-05-12,Da Nang,51+,Web,regular
+C00462,2025-03-08,Can Tho,18-25,Web,digital_active
+C00463,2025-08-04,HCMC,51+,Web,dormant
+C00464,2025-09-30,Hanoi,18-25,Web,digital_active
+C00465,2025-02-25,Hai Phong,18-25,Web,dormant
+C00466,2026-01-13,Hai Phong,26-35,Mobile,new
+C00467,2025-02-02,Hanoi,18-25,Mobile,digital_active
+C00468,2025-09-11,Hanoi,51+,Mobile,regular
+C00469,2025-12-16,Hai Phong,51+,Web,dormant
+C00470,2025-07-01,Can Tho,51+,Branch,regular
+C00471,2025-04-21,Can Tho,18-25,Mobile,regular
+C00472,2025-04-18,HCMC,18-25,Mobile,regular
+C00473,2025-02-27,Hanoi,51+,Branch,premium
+C00474,2025-02-24,Can Tho,36-50,Web,regular
+C00475,2025-06-09,Hai Phong,36-50,Branch,digital_active
+C00476,2025-01-17,Da Nang,36-50,Web,digital_active
+C00477,2025-03-26,Hai Phong,18-25,Mobile,regular
+C00478,2025-03-21,Can Tho,18-25,Mobile,new
+C00479,2025-05-09,Can Tho,18-25,Mobile,regular
+C00480,2025-02-21,HCMC,36-50,Web,digital_active
+C00481,2025-09-05,HCMC,36-50,Web,dormant
+C00482,2025-07-26,HCMC,18-25,Mobile,regular
+C00483,2025-10-13,Hai Phong,26-35,Branch,digital_active
+C00484,2025-07-31,Can Tho,51+,Mobile,digital_active
+C00485,2026-01-27,Hai Phong,26-35,Branch,digital_active
+C00486,2025-08-09,Hanoi,18-25,Mobile,digital_active
+C00487,2026-01-07,HCMC,51+,Mobile,dormant
+C00488,2025-09-15,Hanoi,18-25,Branch,dormant
+C00489,2025-09-09,HCMC,36-50,Web,dormant
+C00490,2025-12-28,Hai Phong,18-25,Mobile,dormant
+C00491,2025-07-14,Can Tho,18-25,Branch,digital_active
+C00492,2025-02-03,Hai Phong,26-35,Mobile,digital_active
+C00493,2025-05-02,HCMC,26-35,Mobile,digital_active
+C00494,2025-05-03,Da Nang,51+,Mobile,digital_active
+C00495,2026-01-16,HCMC,51+,Web,dormant
+C00496,2025-12-14,Hanoi,51+,Branch,premium
+C00497,2025-03-24,HCMC,26-35,Web,premium
+C00498,2025-08-20,HCMC,18-25,Web,regular
+C00499,2025-08-19,Hanoi,26-35,Web,premium
+C00500,2025-05-25,Da Nang,36-50,Web,digital_active
+C00501,2025-08-05,Hanoi,26-35,Branch,regular
+C00502,2025-08-28,Can Tho,51+,Branch,digital_active
+C00503,2025-11-05,Can Tho,18-25,Mobile,regular
+C00504,2025-08-12,Hanoi,26-35,Mobile,dormant
+C00505,2025-07-29,Hanoi,18-25,Web,digital_active
+C00506,2026-02-10,Hai Phong,18-25,Web,premium
+C00507,2025-06-17,HCMC,36-50,Branch,premium
+C00508,2025-02-03,Da Nang,51+,Web,regular
+C00509,2025-12-12,Hai Phong,51+,Branch,dormant
+C00510,2025-08-21,Da Nang,51+,Mobile,digital_active
+C00511,2025-09-07,Hai Phong,36-50,Mobile,new
+C00512,2025-02-14,HCMC,18-25,Branch,digital_active
+C00513,2025-11-03,HCMC,36-50,Web,digital_active
+C00514,2025-03-12,Can Tho,36-50,Web,dormant
+C00515,2025-05-04,Hanoi,36-50,Web,dormant
+C00516,2025-05-27,Hanoi,51+,Mobile,regular
+C00517,2025-10-03,Hai Phong,18-25,Mobile,new
+C00518,2025-01-03,Can Tho,26-35,Mobile,dormant
+C00519,2025-06-16,HCMC,26-35,Branch,digital_active
+C00520,2026-02-16,Can Tho,36-50,Branch,regular
+C00521,2025-04-14,Hai Phong,18-25,Branch,regular
+C00522,2025-08-03,HCMC,18-25,Mobile,regular
+C00523,2026-02-04,HCMC,18-25,Branch,dormant
+C00524,2025-03-22,Hai Phong,36-50,Branch,regular
+C00525,2025-05-11,HCMC,26-35,Mobile,digital_active
+C00526,2025-10-24,Hanoi,36-50,Web,new
+C00527,2025-06-22,HCMC,18-25,Branch,new
+C00528,2025-04-13,Hai Phong,26-35,Web,digital_active
+C00529,2025-02-02,Hanoi,26-35,Branch,new
+C00530,2025-04-17,Da Nang,51+,Branch,regular
+C00531,2026-01-30,Da Nang,18-25,Web,digital_active
+C00532,2026-02-24,HCMC,26-35,Web,digital_active
+C00533,2026-01-16,Can Tho,26-35,Mobile,digital_active
+C00534,2025-05-01,Da Nang,26-35,Mobile,digital_active
+C00535,2025-06-21,Can Tho,18-25,Branch,new
+C00536,2025-05-24,Hai Phong,26-35,Mobile,dormant
+C00537,2025-10-18,Hai Phong,51+,Web,premium
+C00538,2025-03-28,Hanoi,36-50,Branch,new
+C00539,2025-09-13,Can Tho,51+,Branch,new
+C00540,2025-09-16,Da Nang,51+,Mobile,new
+C00541,2025-06-27,HCMC,36-50,Mobile,digital_active
+C00542,2025-09-07,Hai Phong,51+,Mobile,dormant
+C00543,2025-12-17,Da Nang,18-25,Mobile,regular
+C00544,2025-06-06,Hanoi,36-50,Web,regular
+C00545,2025-09-27,Hanoi,51+,Mobile,digital_active
+C00546,2025-05-02,Can Tho,18-25,Mobile,digital_active
+C00547,2025-06-21,Da Nang,51+,Branch,regular
+C00548,2025-02-11,HCMC,51+,Web,digital_active
+C00549,2026-01-20,Da Nang,26-35,Web,new
+C00550,2025-11-30,Hai Phong,36-50,Mobile,digital_active
+C00551,2025-03-12,HCMC,18-25,Web,regular
+C00552,2025-09-27,Hanoi,51+,Web,regular
+C00553,2025-06-20,Hanoi,36-50,Web,dormant
+C00554,2025-01-28,HCMC,26-35,Web,new
+C00555,2025-04-13,Da Nang,51+,Mobile,digital_active
+C00556,2025-09-23,Hai Phong,26-35,Web,regular
+C00557,2026-02-13,Hanoi,51+,Branch,digital_active
+C00558,2026-02-15,Da Nang,51+,Web,regular
+C00559,2025-11-13,Hanoi,26-35,Mobile,new
+C00560,2026-02-25,Hai Phong,36-50,Web,digital_active
+C00561,2025-04-24,HCMC,36-50,Mobile,regular
+C00562,2025-06-09,Da Nang,36-50,Mobile,regular
+C00563,2025-02-08,Can Tho,36-50,Web,digital_active
+C00564,2025-06-17,HCMC,18-25,Web,regular
+C00565,2025-02-02,Hai Phong,36-50,Mobile,digital_active
+C00566,2025-07-15,Can Tho,51+,Branch,regular
+C00567,2026-02-17,Hanoi,36-50,Mobile,premium
+C00568,2025-09-03,Hai Phong,51+,Branch,premium
+C00569,2026-01-13,HCMC,51+,Branch,premium
+C00570,2025-07-20,Hai Phong,18-25,Web,regular
+C00571,2025-05-06,HCMC,26-35,Mobile,regular
+C00572,2026-01-30,Da Nang,26-35,Mobile,digital_active
+C00573,2026-01-07,Da Nang,26-35,Web,regular
+C00574,2026-01-08,Can Tho,18-25,Mobile,digital_active
+C00575,2025-06-28,Da Nang,36-50,Branch,digital_active
+C00576,2026-01-21,Hai Phong,26-35,Branch,premium
+C00577,2025-06-08,Hai Phong,18-25,Web,digital_active
+C00578,2025-03-10,Can Tho,51+,Branch,regular
+C00579,2025-03-03,Hai Phong,36-50,Branch,regular
+C00580,2025-07-01,Hai Phong,51+,Mobile,regular
+C00581,2025-11-22,HCMC,18-25,Mobile,regular
+C00582,2025-03-19,Hai Phong,26-35,Mobile,new
+C00583,2025-09-15,Da Nang,51+,Web,dormant
+C00584,2025-06-13,Hai Phong,26-35,Mobile,regular
+C00585,2025-11-14,Hanoi,18-25,Web,regular
+C00586,2025-04-25,Da Nang,51+,Mobile,dormant
+C00587,2025-10-31,Da Nang,51+,Branch,digital_active
+C00588,2025-08-06,Hanoi,18-25,Branch,new
+C00589,2025-10-11,Hai Phong,51+,Branch,digital_active
+C00590,2025-10-05,HCMC,51+,Mobile,digital_active
+C00591,2025-12-10,Hanoi,51+,Web,regular
+C00592,2025-04-27,Da Nang,18-25,Branch,digital_active
+C00593,2025-03-16,Can Tho,26-35,Web,dormant
+C00594,2025-09-09,Hai Phong,51+,Mobile,dormant
+C00595,2025-06-19,Hanoi,26-35,Mobile,regular
+C00596,2025-03-22,Hai Phong,18-25,Web,digital_active
+C00597,2025-09-02,HCMC,26-35,Web,dormant
+C00598,2026-02-01,Hai Phong,26-35,Mobile,regular
+C00599,2025-01-19,Hanoi,51+,Mobile,new
+C00600,2026-02-24,Da Nang,26-35,Branch,digital_active
+C00601,2026-02-22,HCMC,18-25,Web,digital_active
+C00602,2025-09-22,Da Nang,36-50,Branch,digital_active
+C00603,2025-04-15,Da Nang,26-35,Web,digital_active
+C00604,2025-11-05,HCMC,18-25,Web,digital_active
+C00605,2025-10-08,Hanoi,18-25,Mobile,regular
+C00606,2025-09-10,Hanoi,51+,Branch,regular
+C00607,2025-09-24,Hanoi,36-50,Mobile,regular
+C00608,2025-07-01,Da Nang,18-25,Branch,dormant
+C00609,2025-06-10,Da Nang,36-50,Web,regular
+C00610,2025-03-05,HCMC,26-35,Mobile,digital_active
+C00611,2025-05-17,Da Nang,26-35,Branch,digital_active
+C00612,2025-12-17,Hanoi,26-35,Branch,new
+C00613,2025-10-25,Da Nang,18-25,Web,regular
+C00614,2025-12-07,Hanoi,26-35,Branch,digital_active
+C00615,2025-01-09,Can Tho,51+,Web,digital_active
+C00616,2025-01-23,Hai Phong,51+,Branch,regular
+C00617,2025-03-12,Hai Phong,18-25,Branch,regular
+C00618,2025-11-26,HCMC,36-50,Web,digital_active
+C00619,2025-10-22,Can Tho,18-25,Branch,regular
+C00620,2025-09-07,Can Tho,51+,Branch,dormant
+C00621,2025-05-27,Can Tho,18-25,Mobile,regular
+C00622,2025-09-05,Da Nang,26-35,Mobile,digital_active
+C00623,2025-03-01,Hai Phong,51+,Mobile,digital_active
+C00624,2026-01-02,Hanoi,18-25,Web,regular
+C00625,2025-12-22,HCMC,51+,Branch,regular
+C00626,2025-01-13,Can Tho,26-35,Mobile,new
+C00627,2025-08-31,HCMC,18-25,Web,dormant
+C00628,2025-06-03,Can Tho,36-50,Web,new
+C00629,2025-11-23,Can Tho,18-25,Mobile,regular
+C00630,2025-03-10,Hai Phong,36-50,Mobile,premium
+C00631,2026-02-18,HCMC,26-35,Branch,regular
+C00632,2025-04-06,Can Tho,26-35,Branch,digital_active
+C00633,2025-02-01,Hanoi,26-35,Mobile,dormant
+C00634,2026-01-06,Da Nang,36-50,Web,dormant
+C00635,2025-11-18,Can Tho,26-35,Web,digital_active
+C00636,2025-02-24,Hai Phong,26-35,Branch,digital_active
+C00637,2026-02-21,Hai Phong,26-35,Branch,regular
+C00638,2025-03-25,Hanoi,51+,Mobile,digital_active
+C00639,2025-09-17,Da Nang,26-35,Branch,regular
+C00640,2025-08-11,Hai Phong,36-50,Web,digital_active
+C00641,2025-10-19,HCMC,36-50,Branch,regular
+C00642,2026-01-19,HCMC,18-25,Branch,regular
+C00643,2025-09-15,Hai Phong,18-25,Mobile,digital_active
+C00644,2025-12-20,Hanoi,36-50,Web,premium
+C00645,2025-09-19,Can Tho,36-50,Web,digital_active
+C00646,2025-06-03,Da Nang,51+,Branch,digital_active
+C00647,2026-02-03,Hanoi,36-50,Branch,dormant
+C00648,2026-02-13,HCMC,18-25,Branch,digital_active
+C00649,2025-09-26,Hanoi,26-35,Web,digital_active
+C00650,2025-08-12,HCMC,26-35,Web,regular
+C00651,2025-08-10,Hai Phong,26-35,Branch,premium
+C00652,2025-10-19,Hai Phong,26-35,Web,dormant
+C00653,2025-01-06,HCMC,18-25,Web,new
+C00654,2025-11-30,Can Tho,51+,Branch,regular
+C00655,2026-01-07,Can Tho,26-35,Mobile,regular
+C00656,2025-11-27,Hai Phong,36-50,Branch,digital_active
+C00657,2025-07-03,Can Tho,18-25,Web,dormant
+C00658,2025-05-11,Hanoi,36-50,Mobile,premium
+C00659,2026-02-07,HCMC,18-25,Web,digital_active
+C00660,2025-05-08,Da Nang,18-25,Branch,digital_active
+C00661,2026-02-10,Hai Phong,18-25,Mobile,premium
+C00662,2025-01-14,Can Tho,18-25,Web,digital_active
+C00663,2025-12-06,Da Nang,51+,Branch,dormant
+C00664,2025-03-01,Hanoi,36-50,Web,regular
+C00665,2025-11-03,Hai Phong,18-25,Mobile,premium
+C00666,2025-09-24,Hanoi,51+,Web,premium
+C00667,2025-03-12,Can Tho,36-50,Mobile,dormant
+C00668,2025-08-23,Hai Phong,51+,Mobile,premium
+C00669,2025-10-09,Hanoi,36-50,Mobile,dormant
+C00670,2026-01-21,HCMC,26-35,Mobile,new
+C00671,2025-05-24,Da Nang,51+,Branch,premium
+C00672,2025-01-26,HCMC,51+,Mobile,new
+C00673,2026-02-08,HCMC,36-50,Branch,new
+C00674,2025-10-25,HCMC,26-35,Branch,premium
+C00675,2026-01-09,Can Tho,36-50,Mobile,dormant
+C00676,2026-01-02,Da Nang,36-50,Web,regular
+C00677,2025-01-04,HCMC,18-25,Web,dormant
+C00678,2025-07-13,Hanoi,26-35,Branch,new
+C00679,2026-01-23,Da Nang,18-25,Web,premium
+C00680,2025-06-28,Da Nang,26-35,Mobile,regular
+C00681,2025-09-26,Hai Phong,51+,Mobile,regular
+C00682,2025-12-10,Hanoi,18-25,Web,digital_active
+C00683,2025-06-29,HCMC,36-50,Branch,digital_active
+C00684,2025-11-10,Hai Phong,36-50,Web,new
+C00685,2025-10-15,Hanoi,26-35,Branch,regular
+C00686,2025-07-04,HCMC,51+,Branch,regular
+C00687,2025-02-19,Can Tho,26-35,Branch,regular
+C00688,2025-09-17,Can Tho,26-35,Branch,digital_active
+C00689,2025-06-12,Can Tho,51+,Branch,digital_active
+C00690,2025-07-31,Can Tho,51+,Mobile,dormant
+C00691,2025-04-27,HCMC,51+,Web,new
+C00692,2026-02-11,Can Tho,26-35,Branch,dormant
+C00693,2025-12-21,Hanoi,18-25,Branch,dormant
+C00694,2025-03-05,Can Tho,36-50,Mobile,premium
+C00695,2025-04-03,HCMC,18-25,Branch,digital_active
+C00696,2025-02-27,Da Nang,36-50,Web,regular
+C00697,2025-04-05,Can Tho,36-50,Mobile,regular
+C00698,2025-12-15,HCMC,36-50,Branch,digital_active
+C00699,2025-05-26,Hai Phong,36-50,Web,digital_active
+C00700,2025-02-24,HCMC,26-35,Web,dormant
+C00701,2025-09-09,HCMC,18-25,Mobile,regular
+C00702,2025-08-15,Can Tho,18-25,Branch,digital_active
+C00703,2025-02-23,Hanoi,18-25,Branch,digital_active
+C00704,2026-01-20,Hai Phong,18-25,Web,digital_active
+C00705,2025-11-01,Can Tho,18-25,Mobile,regular
+C00706,2025-06-03,HCMC,51+,Web,premium
+C00707,2025-01-28,Hai Phong,18-25,Mobile,digital_active
+C00708,2026-01-06,Can Tho,36-50,Web,digital_active
+C00709,2025-09-09,HCMC,26-35,Branch,new
+C00710,2025-11-07,Hai Phong,18-25,Branch,digital_active
+C00711,2026-02-16,Can Tho,18-25,Branch,digital_active
+C00712,2026-01-24,Hanoi,36-50,Mobile,regular
+C00713,2025-08-26,Hanoi,26-35,Web,regular
+C00714,2025-11-14,Hai Phong,51+,Branch,regular
+C00715,2025-12-11,Can Tho,51+,Mobile,regular
+C00716,2025-02-14,Hanoi,18-25,Branch,digital_active
+C00717,2025-02-11,Hanoi,26-35,Branch,premium
+C00718,2026-01-08,Da Nang,18-25,Branch,new
+C00719,2025-03-16,Da Nang,26-35,Mobile,regular
+C00720,2025-08-13,HCMC,36-50,Web,dormant
+C00721,2025-02-11,Can Tho,36-50,Mobile,regular
+C00722,2026-01-29,Hai Phong,26-35,Web,regular
+C00723,2025-10-07,Can Tho,51+,Mobile,digital_active
+C00724,2025-12-13,Can Tho,51+,Mobile,digital_active
+C00725,2025-11-04,Da Nang,26-35,Branch,dormant
+C00726,2025-07-23,Hanoi,36-50,Mobile,digital_active
+C00727,2025-05-28,Can Tho,36-50,Mobile,premium
+C00728,2025-02-16,Hanoi,26-35,Web,regular
+C00729,2025-12-29,Hai Phong,36-50,Mobile,dormant
+C00730,2025-01-16,Hanoi,26-35,Web,digital_active
+C00731,2025-07-14,HCMC,26-35,Mobile,dormant
+C00732,2025-02-25,Da Nang,36-50,Branch,digital_active
+C00733,2026-01-21,HCMC,51+,Mobile,digital_active
+C00734,2025-05-10,Hanoi,51+,Branch,dormant
+C00735,2025-07-09,Hanoi,18-25,Branch,dormant
+C00736,2025-03-05,Can Tho,51+,Branch,dormant
+C00737,2026-01-26,Can Tho,26-35,Mobile,dormant
+C00738,2025-11-16,Can Tho,26-35,Mobile,premium
+C00739,2026-01-06,Hanoi,26-35,Branch,digital_active
+C00740,2025-09-19,HCMC,36-50,Web,digital_active
+C00741,2025-08-31,Hai Phong,36-50,Branch,regular
+C00742,2025-07-24,Can Tho,26-35,Web,regular
+C00743,2025-03-24,HCMC,26-35,Web,premium
+C00744,2025-07-26,Da Nang,18-25,Mobile,premium
+C00745,2025-12-02,Da Nang,51+,Mobile,regular
+C00746,2025-05-27,Hanoi,18-25,Web,regular
+C00747,2025-09-30,Hanoi,26-35,Mobile,premium
+C00748,2025-10-26,Can Tho,26-35,Web,digital_active
+C00749,2026-01-29,Can Tho,36-50,Mobile,regular
+C00750,2026-02-21,Hai Phong,18-25,Web,premium
+C00751,2025-11-10,Da Nang,36-50,Web,premium
+C00752,2025-11-14,Hai Phong,36-50,Branch,premium
+C00753,2026-01-09,Hanoi,26-35,Branch,new
+C00754,2025-02-23,HCMC,18-25,Mobile,digital_active
+C00755,2025-01-04,HCMC,36-50,Mobile,dormant
+C00756,2025-07-24,Hai Phong,18-25,Mobile,digital_active
+C00757,2025-01-13,Da Nang,51+,Mobile,regular
+C00758,2026-01-25,HCMC,26-35,Mobile,regular
+C00759,2025-05-29,Can Tho,26-35,Branch,digital_active
+C00760,2025-07-18,Can Tho,26-35,Web,regular
+C00761,2025-06-03,Da Nang,18-25,Web,regular
+C00762,2025-11-12,Hai Phong,36-50,Branch,regular
+C00763,2025-05-16,Hanoi,18-25,Mobile,digital_active
+C00764,2025-10-26,Hanoi,26-35,Web,new
+C00765,2025-07-31,Can Tho,18-25,Mobile,regular
+C00766,2025-12-30,Hai Phong,36-50,Mobile,premium
+C00767,2025-01-26,Da Nang,18-25,Branch,digital_active
+C00768,2025-06-12,Da Nang,18-25,Mobile,regular
+C00769,2025-10-06,Can Tho,18-25,Web,dormant
+C00770,2025-08-17,Hanoi,18-25,Web,digital_active
+C00771,2025-11-27,Hanoi,18-25,Mobile,premium
+C00772,2025-07-09,Can Tho,26-35,Branch,new
+C00773,2025-02-23,Can Tho,18-25,Branch,digital_active
+C00774,2025-06-06,Hanoi,51+,Web,digital_active
+C00775,2026-02-08,Hai Phong,18-25,Web,digital_active
+C00776,2025-01-07,Can Tho,18-25,Web,digital_active
+C00777,2025-04-13,HCMC,36-50,Web,regular
+C00778,2025-11-25,Hanoi,18-25,Mobile,digital_active
+C00779,2025-10-14,Hanoi,51+,Web,digital_active
+C00780,2025-08-08,Hanoi,26-35,Web,regular
+C00781,2025-09-27,Can Tho,18-25,Mobile,digital_active
+C00782,2025-09-05,Da Nang,26-35,Mobile,regular
+C00783,2025-12-13,Hai Phong,36-50,Web,regular
+C00784,2025-03-15,Hanoi,36-50,Branch,digital_active
+C00785,2025-02-18,Hai Phong,26-35,Web,new
+C00786,2025-01-05,Hanoi,26-35,Branch,regular
+C00787,2026-02-17,Da Nang,36-50,Web,dormant
+C00788,2026-02-15,Can Tho,51+,Web,regular
+C00789,2025-07-04,HCMC,51+,Mobile,premium
+C00790,2025-01-10,Hanoi,51+,Mobile,dormant
+C00791,2025-03-13,HCMC,26-35,Branch,regular
+C00792,2025-06-14,Hai Phong,36-50,Branch,digital_active
+C00793,2025-07-25,Da Nang,18-25,Mobile,digital_active
+C00794,2025-11-28,Hai Phong,26-35,Mobile,regular
+C00795,2025-08-14,Da Nang,51+,Branch,dormant
+C00796,2025-10-27,Da Nang,26-35,Web,regular
+C00797,2025-10-14,Hanoi,51+,Branch,digital_active
+C00798,2025-12-01,HCMC,18-25,Web,dormant
+C00799,2025-08-17,Hanoi,18-25,Mobile,dormant
+C00800,2025-09-17,Hanoi,18-25,Web,digital_active
+C00801,2025-09-07,Hanoi,51+,Web,regular
+C00802,2025-09-14,HCMC,26-35,Mobile,digital_active
+C00803,2025-06-05,Hai Phong,51+,Web,regular
+C00804,2025-04-30,Can Tho,51+,Mobile,regular
+C00805,2025-04-21,Hai Phong,51+,Branch,regular
+C00806,2025-12-16,Da Nang,36-50,Web,digital_active
+C00807,2025-04-26,Da Nang,36-50,Web,digital_active
+C00808,2025-11-25,Hai Phong,36-50,Web,regular
+C00809,2025-04-28,HCMC,26-35,Web,dormant
+C00810,2025-08-12,Hai Phong,18-25,Web,digital_active
+C00811,2025-05-15,Hanoi,18-25,Mobile,dormant
+C00812,2025-06-30,Can Tho,18-25,Branch,premium
+C00813,2026-02-23,HCMC,26-35,Web,regular
+C00814,2025-11-19,HCMC,18-25,Branch,digital_active
+C00815,2025-08-31,Can Tho,36-50,Branch,digital_active
+C00816,2025-05-19,Da Nang,51+,Web,digital_active
+C00817,2025-04-18,Da Nang,18-25,Mobile,dormant
+C00818,2025-05-26,Da Nang,18-25,Mobile,digital_active
+C00819,2025-12-30,Da Nang,18-25,Branch,new
+C00820,2025-03-26,Hai Phong,51+,Mobile,digital_active
+C00821,2025-09-24,Can Tho,26-35,Branch,digital_active
+C00822,2025-05-18,Can Tho,51+,Web,digital_active
+C00823,2025-07-18,Hai Phong,18-25,Web,new
+C00824,2025-12-16,Hai Phong,18-25,Mobile,digital_active
+C00825,2025-07-02,Hanoi,36-50,Web,regular
+C00826,2025-09-15,Hanoi,26-35,Branch,dormant
+C00827,2025-06-02,HCMC,51+,Web,digital_active
+C00828,2026-01-06,HCMC,36-50,Branch,regular
+C00829,2025-04-25,HCMC,51+,Web,dormant
+C00830,2025-03-07,Hai Phong,18-25,Web,new
+C00831,2025-10-24,Can Tho,26-35,Web,new
+C00832,2025-08-20,Hanoi,18-25,Web,dormant
+C00833,2026-01-07,Can Tho,26-35,Branch,digital_active
+C00834,2026-01-06,Da Nang,51+,Web,regular
+C00835,2025-12-20,Da Nang,36-50,Web,digital_active
+C00836,2025-06-17,Hai Phong,18-25,Mobile,regular
+C00837,2026-02-07,Da Nang,51+,Mobile,digital_active
+C00838,2025-08-10,Hai Phong,26-35,Branch,regular
+C00839,2025-12-15,Da Nang,36-50,Mobile,regular
+C00840,2025-12-29,Can Tho,26-35,Mobile,regular
+C00841,2025-05-24,Can Tho,51+,Mobile,premium
+C00842,2025-09-28,Hanoi,26-35,Mobile,dormant
+C00843,2026-02-25,Hanoi,51+,Web,regular
+C00844,2025-05-10,Can Tho,51+,Branch,regular
+C00845,2026-02-11,Can Tho,51+,Web,digital_active
+C00846,2025-02-20,Can Tho,36-50,Web,new
+C00847,2025-08-19,HCMC,51+,Web,regular
+C00848,2025-06-09,HCMC,36-50,Web,regular
+C00849,2025-05-17,Da Nang,36-50,Mobile,digital_active
+C00850,2025-09-01,Hai Phong,26-35,Mobile,regular
+C00851,2026-02-23,HCMC,18-25,Mobile,digital_active
+C00852,2025-03-06,Da Nang,36-50,Mobile,digital_active
+C00853,2025-11-18,Hanoi,36-50,Mobile,premium
+C00854,2025-01-24,HCMC,18-25,Web,digital_active
+C00855,2025-05-18,Hanoi,26-35,Mobile,regular
+C00856,2025-04-22,Hanoi,26-35,Web,digital_active
+C00857,2026-01-19,HCMC,51+,Branch,regular
+C00858,2025-08-03,HCMC,51+,Mobile,digital_active
+C00859,2025-09-08,Hai Phong,26-35,Branch,digital_active
+C00860,2026-01-10,HCMC,26-35,Branch,digital_active
+C00861,2025-01-25,Da Nang,51+,Branch,premium
+C00862,2026-01-14,Hai Phong,26-35,Mobile,regular
+C00863,2026-02-10,Can Tho,36-50,Mobile,dormant
+C00864,2025-01-12,Da Nang,36-50,Mobile,regular
+C00865,2025-11-16,Hai Phong,36-50,Web,digital_active
+C00866,2026-01-09,Hai Phong,51+,Branch,digital_active
+C00867,2026-01-02,Hanoi,36-50,Mobile,digital_active
+C00868,2025-09-09,Can Tho,51+,Web,digital_active
+C00869,2025-12-01,Hai Phong,26-35,Branch,digital_active
+C00870,2025-12-06,Hanoi,51+,Branch,regular
+C00871,2025-07-06,Can Tho,26-35,Branch,digital_active
+C00872,2025-10-09,Hai Phong,26-35,Mobile,premium
+C00873,2025-09-22,Hai Phong,26-35,Web,new
+C00874,2025-07-09,Hanoi,36-50,Branch,regular
+C00875,2025-07-08,Da Nang,26-35,Web,digital_active
+C00876,2025-11-08,Hanoi,26-35,Mobile,digital_active
+C00877,2026-01-19,Hanoi,36-50,Branch,dormant
+C00878,2025-09-01,Can Tho,26-35,Branch,dormant
+C00879,2025-10-22,Can Tho,36-50,Branch,regular
+C00880,2026-01-14,Can Tho,51+,Branch,regular
+C00881,2025-09-06,Hai Phong,18-25,Branch,premium
+C00882,2025-06-17,Da Nang,18-25,Branch,dormant
+C00883,2026-02-04,Can Tho,18-25,Branch,regular
+C00884,2025-03-11,Can Tho,18-25,Branch,digital_active
+C00885,2025-09-06,Can Tho,51+,Web,dormant
+C00886,2025-10-20,Hai Phong,51+,Web,digital_active
+C00887,2025-06-15,Da Nang,36-50,Mobile,dormant
+C00888,2025-03-27,Can Tho,18-25,Mobile,premium
+C00889,2025-04-14,Da Nang,36-50,Branch,regular
+C00890,2025-12-31,Da Nang,36-50,Web,regular
+C00891,2025-02-11,Can Tho,51+,Mobile,premium
+C00892,2026-02-03,Can Tho,36-50,Web,dormant
+C00893,2025-04-26,Hanoi,26-35,Mobile,digital_active
+C00894,2025-05-17,Can Tho,51+,Mobile,regular
+C00895,2025-07-17,HCMC,36-50,Web,digital_active
+C00896,2026-02-22,Hanoi,51+,Branch,regular
+C00897,2026-02-08,HCMC,51+,Web,dormant
+C00898,2025-04-02,Can Tho,36-50,Web,digital_active
+C00899,2025-08-29,Hai Phong,26-35,Branch,digital_active
+C00900,2025-04-02,HCMC,51+,Branch,regular
+C00901,2025-04-26,Hai Phong,36-50,Branch,digital_active
+C00902,2025-04-01,HCMC,51+,Branch,digital_active
+C00903,2026-01-31,Can Tho,18-25,Mobile,digital_active
+C00904,2025-01-06,Can Tho,26-35,Web,digital_active
+C00905,2025-01-12,Hanoi,51+,Mobile,regular
+C00906,2025-04-09,HCMC,18-25,Mobile,regular
+C00907,2025-08-17,Da Nang,26-35,Web,digital_active
+C00908,2025-02-24,Can Tho,18-25,Mobile,digital_active
+C00909,2025-09-24,Hai Phong,51+,Mobile,premium
+C00910,2025-11-19,HCMC,51+,Web,new
+C00911,2025-03-06,Hanoi,51+,Branch,dormant
+C00912,2025-06-09,Hai Phong,51+,Branch,digital_active
+C00913,2025-02-01,Hanoi,26-35,Web,digital_active
+C00914,2025-10-30,Hanoi,36-50,Branch,digital_active
+C00915,2025-04-01,Hai Phong,36-50,Web,regular
+C00916,2025-08-05,Can Tho,51+,Mobile,regular
+C00917,2025-03-24,Can Tho,51+,Web,digital_active
+C00918,2025-12-09,Can Tho,51+,Branch,regular
+C00919,2025-09-16,Da Nang,36-50,Branch,digital_active
+C00920,2025-09-27,Can Tho,18-25,Branch,premium
+C00921,2025-01-11,Hanoi,18-25,Mobile,digital_active
+C00922,2025-04-18,Hai Phong,51+,Branch,digital_active
+C00923,2025-04-12,Hanoi,18-25,Branch,premium
+C00924,2025-05-19,Hai Phong,36-50,Web,dormant
+C00925,2026-01-09,Hai Phong,51+,Mobile,digital_active
+C00926,2025-12-11,Hai Phong,36-50,Branch,new
+C00927,2025-05-10,Da Nang,51+,Web,dormant
+C00928,2026-02-17,Hanoi,36-50,Web,regular
+C00929,2025-05-16,HCMC,51+,Branch,premium
+C00930,2026-01-15,Can Tho,26-35,Mobile,digital_active
+C00931,2025-10-04,HCMC,51+,Branch,regular
+C00932,2025-01-24,Da Nang,36-50,Mobile,digital_active
+C00933,2025-08-10,Hanoi,26-35,Branch,digital_active
+C00934,2025-10-30,Hai Phong,26-35,Web,regular
+C00935,2025-01-21,Da Nang,18-25,Web,premium
+C00936,2025-09-02,Can Tho,18-25,Branch,dormant
+C00937,2025-10-05,Can Tho,51+,Mobile,premium
+C00938,2026-01-13,Da Nang,18-25,Branch,digital_active
+C00939,2025-05-09,HCMC,51+,Mobile,new
+C00940,2025-09-01,Da Nang,26-35,Branch,regular
+C00941,2025-06-24,Da Nang,36-50,Web,regular
+C00942,2025-09-23,Da Nang,26-35,Web,dormant
+C00943,2025-12-15,HCMC,51+,Branch,new
+C00944,2025-07-06,Da Nang,26-35,Branch,new
+C00945,2025-09-26,Can Tho,36-50,Web,dormant
+C00946,2025-04-26,Da Nang,26-35,Web,digital_active
+C00947,2025-09-23,Hanoi,26-35,Mobile,digital_active
+C00948,2025-02-07,Can Tho,36-50,Branch,regular
+C00949,2025-11-03,Hanoi,51+,Branch,digital_active
+C00950,2025-09-16,Da Nang,18-25,Branch,regular
+C00951,2025-01-21,Hai Phong,36-50,Web,regular
+C00952,2025-05-09,Hai Phong,36-50,Web,regular
+C00953,2025-11-27,Can Tho,36-50,Branch,regular
+C00954,2025-11-28,Hai Phong,51+,Branch,premium
+C00955,2025-01-11,Hai Phong,36-50,Web,digital_active
+C00956,2025-02-02,Da Nang,26-35,Branch,digital_active
+C00957,2025-06-23,Hai Phong,36-50,Mobile,dormant
+C00958,2026-02-21,Hai Phong,18-25,Web,premium
+C00959,2025-03-22,Hanoi,26-35,Branch,regular
+C00960,2025-02-07,Hanoi,36-50,Branch,digital_active
+C00961,2025-01-17,Hai Phong,18-25,Branch,regular
+C00962,2025-04-12,Hai Phong,36-50,Branch,digital_active
+C00963,2025-08-29,HCMC,26-35,Mobile,new
+C00964,2025-01-25,Can Tho,51+,Web,new
+C00965,2026-01-23,HCMC,18-25,Web,regular
+C00966,2026-02-07,Hanoi,51+,Branch,digital_active
+C00967,2025-04-26,HCMC,18-25,Branch,new
+C00968,2025-12-28,HCMC,18-25,Web,dormant
+C00969,2026-01-07,Can Tho,26-35,Web,premium
+C00970,2025-11-25,HCMC,26-35,Branch,dormant
+C00971,2026-01-27,Hanoi,18-25,Web,digital_active
+C00972,2025-12-04,Da Nang,51+,Web,dormant
+C00973,2025-08-13,Hanoi,36-50,Mobile,digital_active
+C00974,2025-06-07,HCMC,51+,Web,dormant
+C00975,2025-06-03,Da Nang,26-35,Web,premium
+C00976,2025-03-05,Hanoi,51+,Branch,digital_active
+C00977,2026-02-18,Hai Phong,18-25,Mobile,digital_active
+C00978,2025-05-30,Hai Phong,18-25,Branch,regular
+C00979,2026-02-11,Hanoi,18-25,Branch,digital_active
+C00980,2026-02-03,Can Tho,26-35,Web,dormant
+C00981,2025-02-10,Hai Phong,26-35,Mobile,new
+C00982,2025-12-06,Hai Phong,51+,Branch,digital_active
+C00983,2025-07-26,HCMC,18-25,Web,digital_active
+C00984,2025-02-28,HCMC,26-35,Web,regular
+C00985,2025-05-31,Hanoi,51+,Branch,regular
+C00986,2025-03-05,Da Nang,26-35,Mobile,dormant
+C00987,2025-01-24,Da Nang,51+,Branch,dormant
+C00988,2025-02-22,Da Nang,18-25,Branch,digital_active
+C00989,2025-02-07,Hanoi,36-50,Web,regular
+C00990,2025-03-24,Hanoi,36-50,Web,regular
+C00991,2025-09-07,Hanoi,26-35,Web,regular
+C00992,2025-02-01,Hanoi,36-50,Mobile,digital_active
+C00993,2025-09-15,Hai Phong,26-35,Mobile,digital_active
+C00994,2025-10-15,Can Tho,51+,Mobile,digital_active
+C00995,2025-04-30,Da Nang,51+,Web,digital_active
+C00996,2025-08-28,Hanoi,18-25,Branch,dormant
+C00997,2025-02-23,Can Tho,26-35,Branch,premium
+C00998,2025-02-11,HCMC,51+,Web,premium
+C00999,2025-11-07,Da Nang,36-50,Web,digital_active
+C01000,2025-07-29,Hanoi,18-25,Web,dormant

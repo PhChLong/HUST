@@ -1,28 +1,16 @@
 # Lab 04 - Modes of Operation (IT4010E)
-
-Giải mã AES ở 5 mode ECB, CBC, OFB, CFB, CTR. Các mode được cài tay trong `lab04.py`;
-thư viện `pycryptodome` chỉ được dùng cho AES trên **một block 16 byte** (`aes_enc_block`, `aes_dec_block`).
-
-## Cách chạy
-
-```bash
-pip install pycryptodome
-cd <thư mục chứa CyberSec>      # ví dụ: .../HUST
-python CyberSec/Lab04/lab04.py
-```
-
-Đường dẫn tới `lab04_questions.txt` trong code là tương đối (`CyberSec/Lab04/lab04_questions.txt`),
-nên cần chạy từ thư mục cha của `CyberSec`. Chương trình in plaintext của Câu 1-15.
-
 ## Cấu trúc code
 
 | Hàm | Vai trò |
 |---|---|
 | `chunks` | Chia dữ liệu thành các block 16 byte (block cuối có thể ngắn) |
 | `xor` | XOR hai chuỗi bytes, cắt về độ dài ngắn hơn (dùng cho block cuối ngắn) |
-| `unpad_ecb` | Bỏ padding 10…0 (`80 00 … 00`) |
-| `unpad_pkcs5` | Kiểm tra và bỏ padding PKCS5; ném `ValueError` nếu sai |
-| `ecb_decrypt` ... `ctr_decrypt` | Giải mã từng mode |
+| `pad_ecb`, `unpad_ecb` | Padding 10…0 (`80 00 … 00`); `unpad_ecb` ném `ValueError` nếu sai |
+| `pad_pkcs5`, `unpad_pkcs5` | Padding PKCS5; `unpad_pkcs5` ném `ValueError` nếu sai |
+| `ecb_encrypt` ... `ctr_encrypt` | Mã hoá từng mode: nhận `str`, trả `bytes` (IV ngẫu nhiên `os.urandom` được ghép vào đầu, trừ ECB) |
+| `ecb_decrypt` ... `ctr_decrypt` | Giải mã từng mode: nhận `bytes`, trả `str` |
+
+Thư viện chỉ được dùng cho AES một block (`aes_enc_block`, `aes_dec_block`).
 
 ## Công thức giải mã đã dùng
 
@@ -61,9 +49,8 @@ Với OFB, CFB, CTR không có padding; block cuối ngắn được XOR với �
 - **Câu 13:** nhắc tới "two time pad". Ở CTR, dùng lại cùng (key, IV) cho hai thông điệp thì `y ⊕ y' = x ⊕ x'`, lộ quan hệ giữa hai plaintext.
 - **Câu 14, 15:** IV nằm sát hoặc bằng `ff…ff`, nên counter phải được cộng như số nguyên 128-bit, có nhớ lan qua các byte và wrap về 0 (mod 2^128). Code dùng `int.from_bytes(..., "big")` và `% (1 << 128)`.
 
-## Hạn chế hiện tại
+## Ghi chú
 
-- `lab04.py` mới cài **giải mã**; chưa có hàm mã hoá (đề chấm mã hoá cùng với giải mã) và chưa có test round-trip.
-- `unpad_ecb` chưa báo lỗi khi padding sai (thiếu byte `80`, hoặc dữ liệu rỗng sẽ gây `IndexError`); đề yêu cầu từ chối padding không hợp lệ.
-- Thông báo lỗi của `unpad_pkcs5` khi độ dài không chia hết cho 16 còn là `"..."`, chưa mô tả rõ.
-- Đường dẫn file câu hỏi là tương đối, chỉ chạy đúng khi đứng ở thư mục cha của `CyberSec`.
+- Mã hoá nhận `str` (UTF-8) và trả `bytes`; giải mã làm ngược lại, nên `decrypt(encrypt(m)) == m`.
+- ECB, CBC luôn thêm padding (kể cả khi plaintext đã chia hết cho 16); OFB, CFB, CTR không padding, ciphertext dài hơn plaintext đúng 16 byte (IV).
+- Padding sai (ECB: không có byte `80`; CBC: không đúng PKCS5) bị từ chối bằng `ValueError`.

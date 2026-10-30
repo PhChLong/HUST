@@ -1,3 +1,4 @@
+import os
 from Crypto.Cipher import AES
 
 with open("CyberSec/Lab04/lab04_questions.txt") as f:
@@ -16,17 +17,25 @@ def aes_dec_block(key: bytes, block: bytes) -> bytes:
 
 def unpad_ecb(pt:bytes) -> bytes:
     pt_unpaded = pt.rstrip(b"\x00")
-    if pt_unpaded[-1] == 0x80:
-        pt_unpaded = pt_unpaded[:-1]
-    return pt_unpaded
+    if len(pt_unpaded) == 0 or pt_unpaded[-1] != 0x80:
+        raise ValueError("invalid padding")
+    return pt_unpaded[:-1]
 
 def unpad_pkcs5(pt: bytes) -> bytes:
     if len(pt) == 0 or len(pt) % BLOCK_SIZE != 0:
-        raise ValueError()
+        raise ValueError("...")
     n: int = pt[-1]
     if not (1 <= n <= BLOCK_SIZE) or pt[-n:] != bytes([n]) * n:
         raise ValueError("invalid padding")
     return pt[:-n]
+
+def pad_ecb(pt: bytes) -> bytes:
+    missing: int = BLOCK_SIZE - len(pt) % BLOCK_SIZE
+    return pt + b"\x80" + b"\x00" * (missing - 1)
+
+def pad_pkcs5(pt: bytes) -> bytes:
+    missing: int = BLOCK_SIZE - len(pt) % BLOCK_SIZE
+    return pt + bytes([missing]) * missing
 
 def chunks(data: bytes, n: int = 16) -> list[bytes]:
     return [data[i:i + n] for i in range(0, len(data), n)]
@@ -96,6 +105,54 @@ def ctr_decrypt(key: bytes, message: bytes) -> str:
     decoded: bytes = b"".join(parts)
     plain_text: str = decoded.decode("utf-8")
     return plain_text
+
+def ecb_encrypt(key: bytes, plain_text: str) -> bytes:
+    blocks = chunks(pad_ecb(plain_text.encode("utf-8")), BLOCK_SIZE)
+    parts: list[bytes] = []
+    for block in blocks:
+        parts.append(aes_enc_block(key, block))
+    return b"".join(parts)
+
+def cbc_encrypt(key: bytes, plain_text: str) -> bytes:
+    blocks = chunks(pad_pkcs5(plain_text.encode("utf-8")), BLOCK_SIZE)
+    IV: bytes = os.urandom(BLOCK_SIZE)
+    y_prev = IV
+    parts: list[bytes] = [IV]
+    for block in blocks:
+        y_prev = aes_enc_block(key, xor(block, y_prev))
+        parts.append(y_prev)
+    return b"".join(parts)
+
+def ofb_encrypt(key: bytes, plain_text: str) -> bytes:
+    blocks = chunks(plain_text.encode("utf-8"), BLOCK_SIZE)
+    IV: bytes = os.urandom(BLOCK_SIZE)
+    s_prev = IV
+    parts: list[bytes] = [IV]
+    for block in blocks:
+        s_cur = aes_enc_block(key, s_prev)
+        parts.append(xor(s_cur, block))
+        s_prev = s_cur
+    return b"".join(parts)
+
+def cfb_encrypt(key: bytes, plain_text: str) -> bytes:
+    blocks = chunks(plain_text.encode("utf-8"), BLOCK_SIZE)
+    IV: bytes = os.urandom(BLOCK_SIZE)
+    y_prev = IV
+    parts: list[bytes] = [IV]
+    for block in blocks:
+        y_prev = xor(aes_enc_block(key, y_prev), block)
+        parts.append(y_prev)
+    return b"".join(parts)
+
+def ctr_encrypt(key: bytes, plain_text: str) -> bytes:
+    blocks = chunks(plain_text.encode("utf-8"), BLOCK_SIZE)
+    IV: bytes = os.urandom(BLOCK_SIZE)
+    IV_int = int.from_bytes(IV, "big")
+    parts: list[bytes] = [IV]
+    for i, block in enumerate(blocks):
+        IV_cur: bytes = ((IV_int + i) % (1 << 128)).to_bytes(16, "big")
+        parts.append(xor(aes_enc_block(key, IV_cur), block))
+    return b"".join(parts)
 
 method_map = {
     "ECB": ecb_decrypt,

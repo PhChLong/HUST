@@ -1,0 +1,59 @@
+Rows: 80
+Missing values: 0
+Duplicate (week, store, product): 0
+                  count    mean    std     min     25%     50%     75%     max
+week               80.0    2.50   1.13    1.00    1.75    2.50    3.25    4.00
+units_sold         80.0  105.28  29.68   57.00   85.00  110.00  134.00  165.00
+price              80.0   19.51   4.98   11.52   15.73   19.55   23.41   27.23
+promotion          80.0    0.20   0.40    0.00    0.00    0.00    0.00    1.00
+ad_spend           80.0  188.80  32.05  127.00  165.00  188.50  210.50  256.00
+competitor_price   80.0   19.25   4.96   12.05   15.65   19.25   22.85   26.45
+
+Units sold by promotion:
+            count   mean   std   min    25%    50%    75%    max
+promotion                                                      
+0           64.0  100.6  28.1  57.0   79.8  101.0  122.2  146.0
+1           16.0  123.9  29.4  79.0  103.2  124.0  144.8  165.0
+
+Mean units by week:
+ week
+1    107.4
+2    106.0
+3    104.4
+4    103.2
+Name: units_sold, dtype: float64
+
+Mean units by store:
+ store_id
+S1    102.0
+S2    103.2
+S3    105.4
+S4    106.0
+S5    109.8
+Name: units_sold, dtype: float64
+
+Model A: units_sold ~ price
+              coef  95% low  95% high    p
+Intercept  214.876  204.655   225.097  0.0
+price       -5.615   -6.125    -5.104  0.0
+R2 train = 0.893, RMSE train = 9.61, RMSE week 4 = 11.50
+
+Model B: units_sold ~ price + promotion + ad_spend + competitor_price
+                     coef  95% low  95% high    p
+Intercept         171.999  165.014   178.985  0.0
+price             -14.421  -17.421   -11.421  0.0
+promotion           8.296    5.298    11.294  0.0
+ad_spend            0.296    0.246     0.346  0.0
+competitor_price    8.157    5.248    11.066  0.0
+R2 train = 0.993, RMSE train = 2.47, RMSE week 4 = 2.95
+
+Model B on all 80 rows, price coef: -14.08
+Top 3 Cook's distance (cutoff 4/n = 0.05):
+    week store_id product_id  units_sold  promotion  cooks
+11     4       S1         P3         110          1  0.065
+14     3       S1         P4          79          1  0.060
+67     4       S5         P1         165          1  0.048
+
+Leave-one-store_id-out mean RMSE: A = 10.73, B = 2.61
+
+Leave-one-product_id-out mean RMSE: A = 10.12, B = 2.58
